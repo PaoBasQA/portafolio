@@ -11,6 +11,6 @@
 
 ## Hecho por:
 
-###Ana García - Alura Latam - Paola Bastida
+###Alura Latam - Paola Bastida
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
