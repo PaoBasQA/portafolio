@@ -5,6 +5,7 @@
     --color-secundario: #FFC700;
     --color-terciario: #4CCD99;
     --color-hover: #F93827;
+    --color-p: #FFFFFF; 
 
     --fuente-montserrat: "Montserrat", sans-serif;
     --fuente-krona: "Krona One", sans-serif;
@@ -61,6 +62,10 @@ body{
 
 .titulo-destaque {
     color: var(--color-terciario);
+}
+
+p{
+    color: var(--color-p);
 }
 
 .presentacion__contenido__texto{
